@@ -31,24 +31,15 @@
 ### 📫 Conecta conmigo
 
 <p align="center">
-  <a href="mailto:tuemail@gmail.com" target="_blank">
+  <a href="mailto:tm.esteve@gmail.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="email" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/tuusuario/" target="_blank">
+  <a href="https://www.linkedin.com/in/tom%C3%A1s-mach%C3%ADn-esteve-739218267/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://tuportafolio.com" target="_blank">
+  <!--<a href="https://tuportafolio.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" height="40" alt="portafolio" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://twitter.com/tuusuario" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="40" alt="twitter" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://wa.me/1234567890" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/whatsapp/whatsapp-plain.svg" height="40" alt="whatsapp" />
-  </a>
-</p>
+  </a>-->
 
