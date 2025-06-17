@@ -6,7 +6,7 @@
 ### 🧑‍💻 Sobre mí
 - 🔭 Actualmente trabajando en: **Redes bayesianas aplicadas al póker**
 - 🌱 Aprendiendo: **IA, Redes Bayesianas, Machine learning...**
-- 📫 Cómo contactarme: **[correo, LinkedIn, portfolio]**
+- 📫 Cómo contactarme: **[correo, LinkedIn]**
 - ⚡ Fun fact: **Me gusta implicarme en todo tipo de proyectos y así aunmentar mis conocimientos y habilidades para poder aplicarlas en más proyectos y campos.**
 
 ---
@@ -28,17 +28,15 @@
 
 ---
 
-### 📫 Conecta conmigo
+### 📫 Contacta conmigo
 
 <p align="center">
   <a href="mailto:tm.esteve@gmail.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="email" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/tom%C3%A1s-mach%C3%ADn-esteve-739218267/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin" />
   </a>
-  &nbsp;&nbsp;
   <!--<a href="https://tuportafolio.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" height="40" alt="portafolio" />
   </a>-->
