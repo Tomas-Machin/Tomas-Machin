@@ -1,16 +1,18 @@
-<h1 align="center">Hola 👋, soy Tomás </h1>
-<h3 align="center">Desarrollador apasionado por crear cosas nuevas</h3>
+<h1 align="center">Hii 👋, I'm Tomás </h1>
+<h3 align="center">Passionate developper who loves to create new things</h3>
+
+![Visitas al perfil](https://komarev.com/ghpvc/?username=Tomas-Machin&color=blue)
 
 ---
 
-### 🧑‍💻 Sobre mí
-- 🔭 Actualmente trabajando en: **Redes bayesianas aplicadas al póker**
-- 🌱 Aprendiendo: **IA, Redes Bayesianas, Machine learning...**
-- ⚡ Fun fact: **Me gusta implicarme en todo tipo de proyectos y así aunmentar mis conocimientos y habilidades para poder aplicarlas en más proyectos y campos.**
+### 🧑‍💻 About me
+- 🔭 Working on: **Bayesian Networks applied to póker**
+- 🌱 Learning: **IA, Bayesian Networks, Machine learning...**
+- ⚡ Fun fact: **Love to implicate myself with any type of project so I can develop new skills and knowledge and apply it to new proyects anf other fileds.**
 
 ---
 
-### 🛠️ Tecnologías y herramientas
+### 🛠️ Tecnologies y tools
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vscode,git,pycharm,linux,js,html,css,python,c,java,nodejs,bash,mysql,mongodb" />
@@ -27,7 +29,7 @@
 
 ---
 
-### 📫 Contacta conmigo 
+### 📫 Contact me 
 
 <p align="center">
   <a href="mailto:tm.esteve@gmail.com" target="_blank">
