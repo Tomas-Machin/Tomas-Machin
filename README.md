@@ -11,15 +11,16 @@
 
 ---
 
-### 🛠️ Tecnologías y herramientas
+<h1 align="center"> 🛠️ Tecnologías y herramientas </h1>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vscode,git,pycharm,linux,js,html,css,python,c,java,nodejs,bash,mysql,mongodb" />
 </div>
 
 ---
-
-### 📈 GitHub Stats
+<!--
+### 📈 GitHub Stats-->
+<h1 align="center"> 📈 GitHub Stats </h1>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tomas-Machin&show_icons=true&theme=radical" height="170" />
@@ -28,7 +29,7 @@
 
 ---
 
-### 📫 Contacta conmigo
+<h1 align="center"> 📫 Contacta conmigo </h1>
 
 <p align="center">
   <a href="mailto:tm.esteve@gmail.com" target="_blank">
