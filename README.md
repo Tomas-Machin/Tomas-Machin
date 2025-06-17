@@ -1,7 +1,7 @@
 <h1 align="center">Hii 👋, I'm Tomás </h1>
 <h3 align="center">Passionate developper who loves to create new things</h3>
 
-![Visitas al perfil](https://komarev.com/ghpvc/?username=Tomas-Machin&color=blue)
+<!--![Visitas al perfil](https://komarev.com/ghpvc/?username=Tomas-Machin&color=blue)-->
 
 ---
 
