@@ -6,7 +6,6 @@
 ### 🧑‍💻 Sobre mí
 - 🔭 Actualmente trabajando en: **Redes bayesianas aplicadas al póker**
 - 🌱 Aprendiendo: **IA, Redes Bayesianas, Machine learning...**
-- 📫 Cómo contactarme: **[correo, LinkedIn]**
 - ⚡ Fun fact: **Me gusta implicarme en todo tipo de proyectos y así aunmentar mis conocimientos y habilidades para poder aplicarlas en más proyectos y campos.**
 
 ---
