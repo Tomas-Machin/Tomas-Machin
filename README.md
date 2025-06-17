@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hola 👋, soy [Tu Nombre]</h1>
-<h3 align="center">Desarrollador/a apasionado/a por [tu stack principal o propósito]</h3>
+<h1 align="center">Hola 👋, soy Tomás </h1>
+<h3 align="center">Desarrollador/a apasionado/a por crear cosas nuevas</h3>
 
 ---
 
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ### 🛠️ Tecnologías y herramientas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,pycharm,linux,js,python,c,java,nodejs,bash" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,pycharm,linux,js,html,css,python,c,java,nodejs,bash,mysql,mongodb" />
 </div>
 
 ---
@@ -45,12 +45,26 @@ Here are some ideas to get you started:
 ---
 
 ### 📫 Conecta conmigo
-<dic align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU-PERFIL)
-  [![Portfolio](https://img.shields.io/badge/Portafolio-000?style=flat&logo=vercel&logoColor=white)](https://tuportafolio.com)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tucorreo@gmail.com)
-</div>
----
 
-<p align="center">💡 “Construyendo soluciones una línea de código a la vez.”</p>
+<p align="center">
+  <a href="mailto:tuemail@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/tuusuario/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://tuportafolio.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" height="40" alt="portafolio" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://twitter.com/tuusuario" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="40" alt="twitter" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://wa.me/1234567890" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/whatsapp/whatsapp-plain.svg" height="40" alt="whatsapp" />
+  </a>
+</p>
 
