@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Tomás </h1>
-<h3 align="center">Desarrollador/a apasionado/a por crear cosas nuevas</h3>
+<h3 align="center">Desarrollador apasionado por crear cosas nuevas</h3>
 
 ---
 
@@ -11,16 +11,15 @@
 
 ---
 
-<h1 align="center"> 🛠️ Tecnologías y herramientas </h1>
+### 🛠️ Tecnologías y herramientas
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vscode,git,pycharm,linux,js,html,css,python,c,java,nodejs,bash,mysql,mongodb" />
 </div>
 
 ---
-<!--
-### 📈 GitHub Stats-->
-<h1 align="center"> 📈 GitHub Stats </h1>
+
+### 📈 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tomas-Machin&show_icons=true&theme=radical" height="170" />
@@ -29,7 +28,7 @@
 
 ---
 
-<h1 align="center"> 📫 Contacta conmigo </h1>
+### 📫 Contacta conmigo 
 
 <p align="center">
   <a href="mailto:tm.esteve@gmail.com" target="_blank">
