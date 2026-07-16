@@ -6,7 +6,8 @@
 ---
 
 ### 🧑‍💻 About me
-- 🔭 Working on: **Bayesian Networks applied to póker**
+- 🔭 Working on: **PongAuto - Data visualization platform**
+- 🧠 Next proyect in mind: **Bayesian Networks applied to póker**
 - 🌱 Learning: **IA, Bayesian Networks, Machine learning...**
 - ⚡ Fun fact: **Love to implicate myself with any type of project so I can develop new skills and knowledge and apply it to new proyects anf other fileds.**
 
